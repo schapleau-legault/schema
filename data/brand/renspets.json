@@ -1,0 +1,8 @@
+{
+    "@type": "Brand",
+    "@id": "xyz", 
+    "name": "Ren's Pets",
+    "url": "https://www.renspets.com",
+    "logo": "https://www.logo.com",
+    "slogan": "slogan here"
+}
