@@ -1,0 +1,22 @@
+{
+    "@type": "Store",
+    "@id": "xyz",
+    "name": "Mondou Atwater",
+    "address":  {
+        "@type": "PostalAddress",
+        "@id": "xyz",
+        "streetAddress": "2668 Rue Notre-Dame Ouest",
+        "addressLocality": "Montreal",
+        "addressRegion": "QC",
+        "postalCode": "H3J 1N7",
+        "addressCountry": "CA"
+      },
+      "brand": {
+          "@type": "Brand",
+          "@id": "brand_mondou"
+      },
+      "telephone": "(438) 380-5114",
+      "openingHours": "MO 9:00-19:00, TU 9:00-19:00, WE 9:00-19:00, TH 9:00-21:00, FR 9:00-21:00, SA 9:00-17:00, SU 9:00-17:00"
+  }
+      
+
