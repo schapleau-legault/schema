@@ -15,7 +15,7 @@ The common schema is based on schema.org (https://www.schema.org) with some spec
 |-------| ----------- | ---------------- | ------------| 
 | Person | ff| ff | John Smith |
 | Organization | ff | ff | Mondou Inc. | 
-| Brand | ff | ff | Mondou, ren's Pets, Homes Alive | 
+| Brand | ff | ff | Mondou, Ren's Pets, Homes Alive | 
 | Product | ff | ff | Dog food |
 
 
