@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "@id": "xyz",
+  "name": {
+    "en": "Adult all breeds dog food",
+    "fr": "Nourriture pour chien adulte toutes races"
+    },
+  "description": {
+    "en": "Adult all breeds dog food – white fish and rice formula is formulated using natural ingredients such as real white fish and whole grains.",
+    "fr": "La nourriture pour chien adulte toutes races – formule poisson blanc et riz Vetdiet® est spécialement formulée avec des ingrédients naturels tels que le poisson blanc et les grains entiers pour combler les besoins nutritionnels de votre chien"
+  },
+  "image": "https://www.mondou.com/dw/image/v2/BGPN_PRD/on/demandware.static/-/Sites-mondou_CA-master/default/dwc741bdfe/images/1029352-0.jpg?sw=1500&sh=1500&sm=fit",
+  "sku":"1029352",
+  "mpn":"1029352",
+  "brand":{
+    "@type":"Brand",
+    "@id": "brand_vetdiet",
+    "name":"Vetdiet"
+  },
+  "url": "https://vetdiet.com/en/products/adult-all-breeds-white-fish-rice-formula",
+  "offers":{
+    "@type":"Offer",
+    "priceCurrency":"CAD",
+    "price":"84.99",
+    "availability":"https://schema.org/InStock",
+    "url":"https://www.mondou.com/en-CA/salmon-dry-food-for-adult-dogs-skin-and-stomach-health-1029352.html"
+    }
+}
