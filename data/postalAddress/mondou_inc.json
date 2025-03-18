@@ -1,5 +1,6 @@
 {
     "@type": "PostalAddress",
+    "name": "Mondou Inc. Headquarter",
     "streetAddress": "11200, rue Renaude-Lapointe"
     "addressLocality": "Anjou",
     "addressRegion": "QC",
