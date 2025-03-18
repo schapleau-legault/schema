@@ -11,11 +11,13 @@ The common schema is based on schema.org (https://www.schema.org) with some spec
 ## Why schema.org
 
 ## Main objects
-|Object | Definition | Reference | Same As | 
+|Object | Definition | Reference | Example | 
 |-------| ----------- | ---------------- | ------------| 
-| Person | ff| ff | ff |
-| Organization | ff | ff | ff | 
-| Brand | ff | ff | ff | 
+| Person | ff| ff | John Smith |
+| Organization | ff | ff | Mondou Inc. | 
+| Brand | ff | ff | Mondou, ren's Pets, Homes Alive | 
+| Product | ff | ff | Dog food |
+
 
 
 
