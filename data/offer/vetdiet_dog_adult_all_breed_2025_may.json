@@ -1,0 +1,25 @@
+{
+  "@type":"Offer",
+  "@id": "xyz",
+  "priceCurrency":"CAD",
+  "price":"84.99",
+  "availability":"https://schema.org/InStock",
+  "availabilityStarts": "2025-05-01",
+  "availabilityends": "2025-010-01",
+  "category": "dog food > adult > all breed",
+  "itemOffered": {
+      "@type": "Product",
+      "@id": "vetdiet_adult_all_breed",
+  },
+  "seller": {
+    "@type": "Store",
+    "@id": "mondou_web_site",
+  },
+  "inventoryLevel": "10",
+  "price": "29.99",
+  "priceCurrency": "CAD",
+  "validFrom": "2025-05-01,
+  "validThrough": "2025-06-01",    
+  "url":"https://www.mondou.com/en-CA/salmon-dry-food-for-adult-dogs-skin-and-stomach-health-1029352.html"
+}
+  
