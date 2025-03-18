@@ -1,0 +1,8 @@
+{
+    "@type": "Brand",
+    "@id": "xyz", 
+    "name": "Vetdiet",
+    "url": "https://www.vetdiet.com",
+    "logo": "https://www.logo.com",
+    "slogan": "slogan here"
+}
