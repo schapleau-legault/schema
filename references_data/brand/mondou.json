@@ -1,0 +1,9 @@
+{
+    "@type": "Brand",
+    "@id": "xyz", 
+    "name": "Mondou",
+    "url": "https://www.mondou.com",
+    "logo": "https://www.logo.com",
+    "slogan": "slogan here"
+}
+    
