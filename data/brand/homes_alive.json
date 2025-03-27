@@ -1,0 +1,8 @@
+{
+    "@type": "Brand",
+    "@id": "xyz", 
+    "name": "Homes Alive",
+    "url": "https://www.homesalive.ca",
+    "logo": "https://www.logo.com",
+    "slogan": "slogan here"
+}
