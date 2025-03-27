@@ -23,5 +23,15 @@ The common schema is based on schema.org (https://www.schema.org) with some spec
 | Invoice | A statement of the money due for goods or services; a bill. | https://schema.org/Invoice | [Example]() |
 
 
+## Object mapping
+|Object | Salesforce | SAP | Dynamics | 
+|-------|------------|-----|----------|
+|Person | Contact | xx | xx |
+|Organization | Account | xx | xx |
+|Product | Product2 | xx | xx |
+|Offer | PriceCatalogItem | xx | xx |
+|Order | Order, OrderItem | xx | xx |
+|Invoice | Invoice, InvoiceLineItem | xx | xx |
+
 
 
