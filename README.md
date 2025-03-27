@@ -20,8 +20,7 @@ The common schema is based on schema.org (https://www.schema.org) with some spec
 | Store | A retail good store. | https://schema.org/Store | [Mondou Atwater](https://github.com/schapleau-legault/schema/blob/main/data/store/mondou_atwater.json) |
 | Offer | An offer to transfer some rights to an item or to provide a service. | https://schema.org/Offer | [Example]() |
 | Order | An order is a confirmation of a transaction (a receipt), which can contain multiple line items, each represented by an Offer that has been accepted by the customer. | https://schema.org/Order | [Example]() |
-| Invoice | A statement of the money due for goods or services; a bill.
- | https://schema.org/Invoice | [Example]() |
+| Invoice | A statement of the money due for goods or services; a bill. | https://schema.org/Invoice | [Example]() |
 
 
 
