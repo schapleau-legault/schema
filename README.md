@@ -28,9 +28,9 @@ The common schema is based on schema.org (https://www.schema.org) with some spec
 |-------|------------|-----|----------|
 |Person | Contact | xx | xx |
 |Organization | Account | xx | xx |
-|Product | Product2 | xx | xx |
+|Product | Product2 | MARA, MAW1 | xx |
 |Offer | PriceCatalogItem | xx | xx |
-|Order | Order, OrderItem | xx | xx |
+|Order | Order, OrderItem | VBRK, VBRP | xx |
 |Invoice | Invoice, InvoiceLineItem | xx | xx |
 
 
