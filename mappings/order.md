@@ -1,7 +1,6 @@
 # Data mapping Order
 
-https://leanx.eu/en/sap/table/mara.html
-https://leanx.eu/en/sap/table/vbrp.html
+https://leanx.eu/en/sap/table/vbrk.html
 
 ## schema.org to SAP
 |Source field | Target field | Transformation | Reference value mapping | 
