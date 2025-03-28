@@ -17,7 +17,7 @@ https://leanx.eu/en/sap/table/mara.html
 |color | MARA.ID_COULEUR (MARA.XXX) | 
 |countryOfAssembly | xx | 
 |countryOfLastProcessing | xx | 
-|countryOfOrigin | xx | 
+|countryOfOrigin | (MAW1.WHERL) | 
 |depth_value | MARA.LONGUEUR (MARA.MEABM) | 
 |depth_unitCode |  MARA.UNITE_LONGUER_LARGEUR_HAUTER (MARA.MEABM) | 
 |gtin | xx | 
