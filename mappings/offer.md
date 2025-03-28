@@ -13,20 +13,15 @@ https://leanx.eu/en/sap/table/WAKP.html
 |@type | "Product" |
 |sameAs | MARA.Id |
 |brand | MARA.MARQUE (MARA.XXX) | 
-
-
 | price | WAKP.WAKP_NVKP_Standard_sales_price | 
 | priceCurrency | WAKP.WAKP_WAEEK_Purr_curr | 
 | offeredBy | xx | 
 | priceValidUntil | xx | 
-
 | seller | xx | 
-
 | validFrom | xx | 
 | validThrough | xx | 
 | validForMemberTier | xx | 
 | shippingDetails | xx | 
-
 | itemOffered_sameAs | WAKP.WAKP_ARTNR_Material | 
 | mpn | xx | 
 | category | xx | 
