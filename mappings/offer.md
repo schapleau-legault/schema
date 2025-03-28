@@ -11,8 +11,7 @@ https://leanx.eu/en/sap/table/WAKP.html
 |	_SYSTEM_CREATEDDATE  | WAKP.ERSDA (MARA.DATE_DE_CREATION)|
 |	_SYSTEM_MODIFIEDDATE  | WAKP.LAEDA (MARA.LastChanged_Date)|
 |@type | "Product" |
-|sameAs | MARA.Id |
-|brand | MARA.MARQUE (MARA.XXX) | 
+|sameAs | WAKP.Id |
 | price | WAKP.WAKP_NVKP_Standard_sales_price | 
 | priceCurrency | WAKP.WAKP_WAEEK_Purr_curr | 
 | offeredBy | xx | 
