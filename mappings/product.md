@@ -5,11 +5,11 @@ https://leanx.eu/en/sap/table/mara.html
 ## schema.org to SAP
 |Source field | Target field | Transformation | Reference value mapping | 
 |-------------|--------------|----------------|-------------------------|
-| _SYSTEM_ID VARCHAR(16777216) | "SAP" |
-|	_SYSTEM_TABLE_ID VARCHAR(16777216) | "MARA" |
-|	_SYSTEM_RECORD_ID VARCHAR(16777216) | MARA.Id |
-|	_SYSTEM_CREATEDDATE TIMESTAMP_NTZ(9) | MARA.ERSDA (MARA.DATE_DE_CREATION)|
-|	_SYSTEM_MODIFIEDDATE TIMESTAMP_NTZ(9) | MARA.LAEDA (MARA.DATE_DE_DERNIER_MODIFICATION)|
+| _SYSTEM_ID  | "SAP" |
+|	_SYSTEM_TABLE_ID  | "MARA" |
+|	_SYSTEM_RECORD_ID | MARA.Id |
+|	_SYSTEM_CREATEDDATE  | MARA.ERSDA (MARA.DATE_DE_CREATION)|
+|	_SYSTEM_MODIFIEDDATE  | MARA.LAEDA (MARA.DATE_DE_DERNIER_MODIFICATION)|
 |@type | "Product" |
 |sameAs | MARA.Id |
 |brand | MARA.MARQUE (MARA.XXX) | 
